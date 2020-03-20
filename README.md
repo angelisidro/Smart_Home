@@ -3,4 +3,4 @@
 
  En este repositorio encontraremos la información necesaria para poder programar nuestra tarjeta por medio de **ARDUINO IDE** o **MicroPython**, por lo que seran colocados algunos ejemplos de codigo que puede ser utilizado con esta tarjeta.
 
- ![](/Img/SmartHome.jpeg =500)
+ ![](/Img/SmartHome.jpeg)
